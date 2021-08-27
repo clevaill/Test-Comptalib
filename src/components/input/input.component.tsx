@@ -20,6 +20,7 @@ const ContentInput = styled.TextInput`
   border-color: lightgray;
   padding-left: 10px;
   border-radius: 5px;
+  background-color: #ffffff;
 `;
 
 interface InputComponentProps {
