@@ -1,0 +1,6 @@
+module Pods_TestComptalib_TestComptalibTests {
+  umbrella header "Pods-TestComptalib-TestComptalibTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
