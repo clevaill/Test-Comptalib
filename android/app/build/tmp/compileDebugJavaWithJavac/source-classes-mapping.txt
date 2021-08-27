@@ -1,0 +1,14 @@
+com/testcomptalib/MainApplication.java
+ com.testcomptalib.MainApplication
+ com.testcomptalib.MainApplication$1
+com/testcomptalib/MainActivity.java
+ com.testcomptalib.MainActivity
+com/testcomptalib/ReactNativeFlipper.java
+ com.testcomptalib.ReactNativeFlipper
+ com.testcomptalib.ReactNativeFlipper$1
+ com.testcomptalib.ReactNativeFlipper$2
+ com.testcomptalib.ReactNativeFlipper$2$1
+com/testcomptalib/BuildConfig.java
+ com.testcomptalib.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
